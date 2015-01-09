@@ -2,4 +2,5 @@ hello-world
 ===========
 
 Hello To The Whole World
-I'm trying to learn github.
+
+I have heard that this is an awesome tool
